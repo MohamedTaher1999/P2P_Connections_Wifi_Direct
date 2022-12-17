@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Tans5:tAdapter:0.7.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7d44c0b1294e6dacef06a7326d7c0983/transformed/jetified-tAdapter-0.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d44c0b1294e6dacef06a7326d7c0983/transformed/jetified-tAdapter-0.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d44c0b1294e6dacef06a7326d7c0983/transformed/jetified-tAdapter-0.7.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Tans5/tAdapter/0.7.2/aaaaffd9d623a9faacfc0177d514ca7391633d50/tAdapter-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

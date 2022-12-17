@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Tans5:RxUtils:0.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a7cbabdbbd8d8e2774383301af20cc4c/transformed/jetified-RxUtils-0.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7cbabdbbd8d8e2774383301af20cc4c/transformed/jetified-RxUtils-0.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7cbabdbbd8d8e2774383301af20cc4c/transformed/jetified-RxUtils-0.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Tans5/RxUtils/0.2.4/1122dd07e2285f8a6755c8aed4ee3d91965a3a47/RxUtils-0.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
